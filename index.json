@@ -147,9 +147,9 @@
   "presets": [
     {
       "fullPath": "presets/osd/osd_dji.txt",
-      "hash": "4bb90099debc01317cfdfd1434e7aee5e567be5549aafad6ccedf131f6f50159",
+      "hash": "21309e6b9054707f07dc445f969db470d3b1f8847a672d363b90895490ae952c",
       "options": [],
-      "title": "OSD - DJI 4:3",
+      "title": "OSD - DJI V1 4:3",
       "firmware_version": [
         "4.3"
       ],
