@@ -147,7 +147,7 @@
   "presets": [
     {
       "fullPath": "presets/osd/osd_dji.txt",
-      "hash": "7d5afd2c8df109e277cb36864d1ac1e57621a40a8a533a19ffec69caad0b38d2",
+      "hash": "e9aed2598a46032e6f0cf92a783879688d68f1c2e94f7cec995dc71c8cee2ad5",
       "options": [],
       "title": "OSD DJI 4:3",
       "firmware_version": [
@@ -157,7 +157,7 @@
       "status": "COMMUNITY",
       "author": "Justin Shaffer",
       "description": [
-        "Base OSD for DJI V1 set to and aspect to aspect ratio 4:3."
+        "Base OSD for DJI V1 set to aspect ratio 4:3."
       ]
     },
     {
