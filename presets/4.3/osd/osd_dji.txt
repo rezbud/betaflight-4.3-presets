@@ -2,6 +2,7 @@
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
+#$ AUTHOR: Justin Shaffer
 #$ DESCRIPTION: Base OSD for DJI V2 set to 4:3. 
 
 set osd_units = IMPERIAL 

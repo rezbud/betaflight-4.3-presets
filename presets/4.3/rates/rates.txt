@@ -1,7 +1,9 @@
-#$ TITLE: Elbow rates for smooth center stick input. 
+#$ TITLE: Rates - RPY 580 
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: RATES
 #$ STATUS: EXPERIMENTAL
+#$ AUTHOR: Justin Shaffer
+#$ DESCRIPTION: ELbow rates for smooth center stick input. Roll, pitch and yaw set to 580 degrees/sec. 
 
 set rates_type = ACTUAL
 set roll_rc_rate = 11
