@@ -145,14 +145,17 @@
   "presets": [
     {
       "fullPath": "presets/4.3/osd/osd_dji.txt",
-      "hash": "569d540dc617cfcb97c90478bcd457cb471629ea6dfad2df51fc9e15b8dda5db",
+      "hash": "f9b57f95f9e670f541fd58039eb1950accf0b5bc31c0f1ffa0527aa5b6909484",
       "options": [],
-      "title": "Base OSD for DJI V2 set to 4:3.",
+      "title": "OSD DJI 4:3",
       "firmware_version": [
         "4.3"
       ],
       "category": "OSD",
-      "status": "COMMUNITY"
+      "status": "COMMUNITY",
+      "description": [
+        "Base OSD for DJI V2 set to 4:3."
+      ]
     },
     {
       "fullPath": "presets/4.3/rates/rates.txt",
