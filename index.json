@@ -139,13 +139,15 @@
       "OSD",
       "RATES"
     ],
-    "author": [],
+    "author": [
+      "Justin Shaffer"
+    ],
     "keywords": []
   },
   "presets": [
     {
       "fullPath": "presets/4.3/osd/osd_dji.txt",
-      "hash": "f9b57f95f9e670f541fd58039eb1950accf0b5bc31c0f1ffa0527aa5b6909484",
+      "hash": "26b0b8f0f661a51794d7cb9e01b36e826a6f8ffe1cd56f2e835753c44086d9c9",
       "options": [],
       "title": "OSD DJI 4:3",
       "firmware_version": [
@@ -153,20 +155,25 @@
       ],
       "category": "OSD",
       "status": "COMMUNITY",
+      "author": "Justin Shaffer",
       "description": [
         "Base OSD for DJI V2 set to 4:3."
       ]
     },
     {
       "fullPath": "presets/4.3/rates/rates.txt",
-      "hash": "72f14d5cff249feb6a0956c84d11a3ff1811b0810a77238271b988c54e49cb53",
+      "hash": "eaa026b047b2bb8966acfc7f9ae4d08a76714f00b9b6bf45df2c2a2cef74c189",
       "options": [],
-      "title": "Elbow rates for smooth center stick input.",
+      "title": "Rates - RPY 580",
       "firmware_version": [
         "4.3"
       ],
       "category": "RATES",
-      "status": "EXPERIMENTAL"
+      "status": "EXPERIMENTAL",
+      "author": "Justin Shaffer",
+      "description": [
+        "ELbow rates for smooth center stick input. Roll, pitch and yaw set to 580 degrees/sec."
+      ]
     }
   ]
 }
