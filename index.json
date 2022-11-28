@@ -174,6 +174,21 @@
       "description": [
         "Elbow rates for smooth center stick input. Roll, pitch and yaw set to 580 degrees/sec."
       ]
+    },
+    {
+      "fullPath": "presets/rates/rates_basemementtuning.txt",
+      "hash": "99ddbba74c7ad2f1c5a56378a8dabb53728128c23938e1d326e34e145baae548",
+      "options": [],
+      "title": "Rates - Basement Tuning",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "author": "Justin Shaffer",
+      "description": [
+        "Rates for PID Toolbox Basement Tuning. Use with Angle Mode."
+      ]
     }
   ]
 }
