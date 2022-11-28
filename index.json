@@ -146,7 +146,7 @@
   },
   "presets": [
     {
-      "fullPath": "presets/4.3/osd/osd_dji.txt",
+      "fullPath": "presets/osd/osd_dji.txt",
       "hash": "7d5afd2c8df109e277cb36864d1ac1e57621a40a8a533a19ffec69caad0b38d2",
       "options": [],
       "title": "OSD DJI 4:3",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "fullPath": "presets/4.3/rates/rates.txt",
+      "fullPath": "presets/rates/rates.txt",
       "hash": "8943588de7fbf1855eac9efb25cfd83341e0b8a81fb600ea25e24c8547ed4c5c",
       "options": [],
       "title": "Rates - RPY 580",
