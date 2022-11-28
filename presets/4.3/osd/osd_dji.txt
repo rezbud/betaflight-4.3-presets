@@ -3,7 +3,7 @@
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ AUTHOR: Justin Shaffer
-#$ DESCRIPTION: Base OSD for DJI V2 set to 4:3. 
+#$ DESCRIPTION: Base OSD for DJI V1 set to and aspect to aspect ratio 4:3. 
 
 set osd_units = IMPERIAL 
 set osd_rssi_pos = 2488
