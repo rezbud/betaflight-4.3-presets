@@ -147,7 +147,7 @@
   "presets": [
     {
       "fullPath": "presets/4.3/osd/osd_dji.txt",
-      "hash": "26b0b8f0f661a51794d7cb9e01b36e826a6f8ffe1cd56f2e835753c44086d9c9",
+      "hash": "7d5afd2c8df109e277cb36864d1ac1e57621a40a8a533a19ffec69caad0b38d2",
       "options": [],
       "title": "OSD DJI 4:3",
       "firmware_version": [
@@ -157,12 +157,12 @@
       "status": "COMMUNITY",
       "author": "Justin Shaffer",
       "description": [
-        "Base OSD for DJI V2 set to 4:3."
+        "Base OSD for DJI V1 set to and aspect to aspect ratio 4:3."
       ]
     },
     {
       "fullPath": "presets/4.3/rates/rates.txt",
-      "hash": "eaa026b047b2bb8966acfc7f9ae4d08a76714f00b9b6bf45df2c2a2cef74c189",
+      "hash": "8943588de7fbf1855eac9efb25cfd83341e0b8a81fb600ea25e24c8547ed4c5c",
       "options": [],
       "title": "Rates - RPY 580",
       "firmware_version": [
@@ -172,7 +172,7 @@
       "status": "EXPERIMENTAL",
       "author": "Justin Shaffer",
       "description": [
-        "ELbow rates for smooth center stick input. Roll, pitch and yaw set to 580 degrees/sec."
+        "Elbow rates for smooth center stick input. Roll, pitch and yaw set to 580 degrees/sec."
       ]
     }
   ]
